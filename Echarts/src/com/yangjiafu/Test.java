@@ -8,4 +8,11 @@ public void sayHello(){
 		
 }	
 	
+	public void doUpload(){
+	
+		System.out.println("Hello,doUpload");
+		
+	}	
+
+	
 }
